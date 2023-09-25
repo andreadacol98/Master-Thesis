@@ -20,5 +20,5 @@ disturbances affecting the users’ request for Internet services, thus showcasi
 the adopted framework in modelling relevant objectives for mobile wireless networks
 
 ## Further Information
-Feedback Equilibrium Seeking control: https://arxiv.org/abs/2210.12088 \n
+Feedback Equilibrium Seeking control: https://arxiv.org/abs/2210.12088 __
 C++ code: https://gitlab.ethz.ch/dfall/dfall-system
