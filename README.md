@@ -17,7 +17,7 @@ tracking of an optimal (time-varying, a-priori unknown) swarm configuration and 
 validate the theoretical findings using real-world quadcopters. Precise convergence of a fleet of
 Bitcraze Crazyflies to the desired operating conditions is achieved in the presence of exogenous
 disturbances affecting the users’ request for Internet services, thus showcasing effectiveness of
-the adopted framework in modelling relevant objectives for mobile wireless networks
+the adopted framework in modelling relevant objectives for mobile wireless networks.
 
 ## Further Information
 Feedback Equilibrium Seeking control: https://arxiv.org/abs/2210.12088<br />
